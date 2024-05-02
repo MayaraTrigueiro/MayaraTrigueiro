@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, me chamo Mayara</h1>
-<h3 align="center">Eterna aprendiz de inovação e análise de dados</h3>
+<h3 align="center">Eterna aprendiz de inovação, análise de dados e tecnologia</h3>
 
-- 🌱 Venho me capacitando e apredendo mais sobre **Python e Visualização de dados (Power BI)**
+- 🌱 Venho me capacitando e apredendo cada vez mais sobre **Análise de dados e Business Intelligence**
 
-- 💬 Me pergunte sobre **Excel, SQL, Google BigQuery, Tableau**
+- 💬 Me pergunte sobre **Excel, SQL, Google BigQuery, Python, Tableau e Visualização de dados**
 
 - 📫 Você me acha através do e-mail **mayaratrigueiro4@gmail.com**
 
